@@ -1,0 +1,2 @@
+tool.vercel
+entrypoint = "m3u8parser:app"
