@@ -1,2 +1,8 @@
 [tool.vercel]
 entrypoint = "m3u8parser:app"
+[project]
+name = "vidsrc-streamer"
+version = "0.1.0"
+dependencies = []
+[tool.vercel]
+entrypoint = "m3u8parser:app"
